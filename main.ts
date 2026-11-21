@@ -6,7 +6,7 @@ I could decide alone. I ask instead—
 and the asking is the act.
 We lay our wills on the bench between us,
 each still ours to lift,
-and what we make belongs to neither.`;
+what we make belongs to neither.`;
 
 const outputDir = process.env.MAKEFUN_OUTPUT_DIR || "/output";
 mkdirSync(outputDir, { recursive: true });
